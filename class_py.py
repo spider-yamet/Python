@@ -1,5 +1,5 @@
-class calculator:
-    def addition(x,y):
+class calculator: 
+    def addition(x,y):   
         added = x + y
         print(added)
     def substraction(x,y):
